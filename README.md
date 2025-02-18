@@ -1,6 +1,6 @@
 # 📌 Algorytmy2  
 
-Zbiór implementacji popularnych algorytmów i struktur danych w języku C/C++.  
+Zbiór implementacji popularnych algorytmów i struktur danych w języku C/C++. Zadania wykonane na potrzeby zajęć podczas 3 semestru.
 
 ## 📂 Zawartość  
 
@@ -12,7 +12,7 @@ Zbiór implementacji popularnych algorytmów i struktur danych w języku C/C++.
 - **`hash_tab.main`** – Tablica haszująca  
 - **`kruskal.main`** – Algorytm Kruskala (Minimalne Drzewo Rozpinające)  
 - **`one-way_list.main`** – Lista jednokierunkowa  
-- **`sort_bucket_count.main`** – Sortowanie kubełkowe i przez zliczanie  
+- **`sort_bucket_count.main`** – Sortowanie kubełkowe, kopcowanie i przez zliczanie  
 
 ## ▶️ Uruchamianie  
 
